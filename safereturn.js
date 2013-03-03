@@ -1,4 +1,4 @@
-module.exports.safeReturn = SafeReturn;
+module.exports = SafeReturn;
 var SafeReturn = function () {
   // Default timeout to a second.
   safeReturn.defaultTimeout = 1000;
